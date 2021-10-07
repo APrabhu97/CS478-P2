@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/cm1"
+        android:title="@string/trailer" />
+
+    <item
+        android:id="@+id/cm2"
+        android:title="@string/imdb" />
+
+    <item
+        android:id="@+id/cm3"
+        android:title="@string/dir_wiki" />
+
+</menu>
